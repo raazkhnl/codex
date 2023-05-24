@@ -1,0 +1,18 @@
+.mainNav ul{
+    display: flex;
+    justify-content: center;
+  
+  }
+  .mainNav ul li{
+    margin-left: 20px;
+    list-style: none;
+    font-weight: bold;
+    margin-top: 10px;
+    /* text-decoration: solid; */
+  }
+  .posts ul{
+    margin-left: 50px;
+    margin-right: 100px;
+    text-align: justify;
+    
+  }

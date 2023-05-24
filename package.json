@@ -9,5 +9,26 @@
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  }
+  },
+  "name": "codex",
+  "description": "A Complete Solutions By The Coders, For The Coders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raazkhnl/codex.git"
+  },
+  "keywords": [
+    "codex",
+    "code",
+    "solutions",
+    "coders"
+  ],
+  "author": "raazkhnl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raazkhnl/codex/issues"
+  },
+  "homepage": "https://github.com/raazkhnl/codex#readme"
 }

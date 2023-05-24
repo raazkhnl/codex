@@ -11,28 +11,45 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
-}
 
-img {
-  max-width: 100%;
-  height: auto;
-}
 
-h1,
-h2,
-p,
-ul {
-  margin: 0;
-}
 
-ul {
-  padding: 0;
-  list-style: none;
-}
+
+
 
 button {
   padding: 0.5rem 1rem;
   font-weight: bold;
 }
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+.title {
+  margin: 0 2 1rem;
+  line-height: 1.15;
+  font-size: 3.6rem;
+  text-align: center;
+}
+
+
+
+
+
+.description {
+  line-height: 1.5;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+
+
